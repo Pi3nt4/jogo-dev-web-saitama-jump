@@ -80,7 +80,7 @@ const loop = setInterval(() => {
         saitama.style.animation = 'none';
         saitama.style.bottom = `${saitamaposision}px`;
 
-        saitama.src = '/saitamacareta.jpg';
+        saitama.src = 'saitamacareta.jpg';
         saitama.style.width = '800px';
         saitama.style.marginLeft = '50px';
     
